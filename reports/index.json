@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261102-210653-esux",
+      "title": "Ebs Nine",
+      "commanders": [
+        "Ebs Nine"
+      ],
+      "guild": {
+        "id": "1D589CCE-656C-ED11-8465-02315AB41281",
+        "name": "Meter Monkeys",
+        "tag": "PUMP"
+      },
+      "dateStart": "2026-11-03T02:06:53.000Z",
+      "dateEnd": "2026-11-03T03:39:07.895Z",
+      "dateLabel": "11/2/2026, 9:06:53 PM - 11/2/2026, 10:39:07 PM",
+      "url": "https://swedemon.github.io/mazz/?report=20261102-210653-esux",
+      "publishedBy": "Swedemon",
+      "summary": {
+        "borderlandsPct": 0.72,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 18,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "World vs World",
+            "value": 7,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20261101-205748-tw7y",
       "title": "Mazz Elien, No Stab Allowed",
       "commanders": [
