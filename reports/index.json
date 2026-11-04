@@ -9,6 +9,45 @@
   },
   "entries": [
     {
+      "id": "20261103-220756-t2kt",
+      "title": "No Stab Allowed",
+      "commanders": [
+        "No Stab Allowed"
+      ],
+      "guild": {
+        "id": "00319855-0ADE-E511-80D4-E4115BEBA648",
+        "name": "Didnt Even Dodge",
+        "tag": "DED"
+      },
+      "dateStart": "2026-11-04T03:07:56.000Z",
+      "dateEnd": "2026-11-04T04:04:04.390Z",
+      "dateLabel": "11/3/2026, 10:07:56 PM - 11/3/2026, 11:04:04 PM",
+      "url": "https://swedemon.github.io/mazz/?report=20261103-220756-t2kt",
+      "publishedBy": "Swedemon",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 22,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20261103-220756-dbj2",
       "title": "No Stab Allowed",
       "commanders": [
