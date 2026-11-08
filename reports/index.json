@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261107-232002-p074",
+      "title": "Incredible Bloodiee",
+      "commanders": [
+        "Incredible Bloodiee"
+      ],
+      "guild": {
+        "id": "BA676D9E-5670-4693-874D-6CD8AB48F0ED",
+        "name": "Violent Resolution",
+        "tag": "VR"
+      },
+      "dateStart": "2026-11-08T04:20:02.000Z",
+      "dateEnd": "2026-11-08T05:29:31.470Z",
+      "dateLabel": "11/7/2026, 11:20:02 PM - 11/8/2026, 12:29:31 AM",
+      "url": "https://swedemon.github.io/mazz/?report=20261107-232002-p074",
+      "publishedBy": "Swedemon",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 41,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 53
+      }
+    },
+    {
       "id": "20261106-211039-zx6e",
       "title": "Strikey M",
       "commanders": [
