@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.11"
+    "version": "3.25.0"
   },
   "entries": [
+    {
+      "id": "20261116-212535-7f69",
+      "title": "Incredible Bloodiee",
+      "commanders": [
+        "Incredible Bloodiee"
+      ],
+      "guild": {
+        "id": "203C51CC-BAA9-EE11-BA1F-124BD09C5957",
+        "name": "The Unemployed Blob",
+        "tag": "TUB"
+      },
+      "dateStart": "2026-11-17T02:25:35.000Z",
+      "dateEnd": "2026-11-17T03:37:11.047Z",
+      "dateLabel": "11/16/2026, 9:25:35 PM - 11/16/2026, 10:37:11 PM",
+      "url": "https://swedemon.github.io/mazz/?report=20261116-212535-7f69",
+      "publishedBy": "Swedemon",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 26,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 42
+      }
+    },
     {
       "id": "20261107-232002-wvc7",
       "title": "Incredible Bloodiee",
