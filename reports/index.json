@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261117-211648-xjwm",
+      "title": "Strikey M",
+      "commanders": [
+        "Strikey M"
+      ],
+      "guild": {
+        "id": "00319855-0ADE-E511-80D4-E4115BEBA648",
+        "name": "Didnt Even Dodge",
+        "tag": "DED"
+      },
+      "dateStart": "2026-11-18T02:16:48.000Z",
+      "dateEnd": "2026-11-18T03:01:50.916Z",
+      "dateLabel": "11/17/2026, 9:16:48 PM - 11/17/2026, 10:01:50 PM",
+      "url": "https://swedemon.github.io/mazz/?report=20261117-211648-xjwm",
+      "publishedBy": "Swedemon",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 15,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20261116-212535-7f69",
       "title": "Incredible Bloodiee",
       "commanders": [
