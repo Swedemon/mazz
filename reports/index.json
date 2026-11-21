@@ -9,6 +9,36 @@
   },
   "entries": [
     {
+      "id": "20261120-213305-ph2n",
+      "title": "Backlighting, Mez Elien",
+      "commanders": [
+        "Backlighting",
+        "Mez Elien"
+      ],
+      "guild": {
+        "id": "7F23312D-85DC-F111-BB22-1249AB9AC125",
+        "name": "Battletub",
+        "tag": "bTub"
+      },
+      "dateStart": "2026-11-21T02:33:05.000Z",
+      "dateEnd": "2026-11-21T04:15:38.594Z",
+      "dateLabel": "11/20/2026, 9:33:05 PM - 11/20/2026, 11:15:38 PM",
+      "url": "https://swedemon.github.io/mazz/?report=20261120-213305-ph2n",
+      "publishedBy": "Swedemon",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 18,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 50
+      }
+    },
+    {
       "id": "20261117-211648-xjwm",
       "title": "Strikey M",
       "commanders": [
