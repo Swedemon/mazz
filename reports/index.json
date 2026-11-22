@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261121-214643-8y08",
+      "title": "Incredible Bloodiee",
+      "commanders": [
+        "Incredible Bloodiee"
+      ],
+      "guild": {
+        "id": "203C51CC-BAA9-EE11-BA1F-124BD09C5957",
+        "name": "The Unemployed Blob",
+        "tag": "TUB"
+      },
+      "dateStart": "2026-11-22T02:46:43.000Z",
+      "dateEnd": "2026-11-22T04:05:30.897Z",
+      "dateLabel": "11/21/2026, 9:46:43 PM - 11/21/2026, 11:05:30 PM",
+      "url": "https://swedemon.github.io/mazz/?report=20261121-214643-8y08",
+      "publishedBy": "Swedemon",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 47,
+            "color": "#64748b"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 4,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20261120-213305-ph2n",
       "title": "Backlighting, Mez Elien",
       "commanders": [
