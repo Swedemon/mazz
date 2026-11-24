@@ -9,6 +9,41 @@
   },
   "entries": [
     {
+      "id": "20261123-211601-eqld",
+      "title": "Incredible Bloodiee, Sofa King Bloodiee",
+      "commanders": [
+        "Incredible Bloodiee",
+        "Sofa King Bloodiee"
+      ],
+      "guild": {
+        "id": "BA676D9E-5670-4693-874D-6CD8AB48F0ED",
+        "name": "Violent Resolution",
+        "tag": "VR"
+      },
+      "dateStart": "2026-11-24T02:16:01.000Z",
+      "dateEnd": "2026-11-24T03:01:45.537Z",
+      "dateLabel": "11/23/2026, 9:16:01 PM - 11/23/2026, 10:01:45 PM",
+      "url": "https://swedemon.github.io/mazz/?report=20261123-211601-eqld",
+      "publishedBy": "Swedemon",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 33,
+            "color": "#64748b"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 27,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 53
+      }
+    },
+    {
       "id": "20261121-214643-8y08",
       "title": "Incredible Bloodiee",
       "commanders": [
